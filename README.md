@@ -1,2 +1,2 @@
 # dragon-repeller
-Dragon Repeller Game
+Dragon Repeller Game - 1st JavaScript Project
